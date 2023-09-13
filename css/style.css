@@ -1,0 +1,47 @@
+body{
+    margin: 20px;
+    font-family: 'Anton';
+    background-color: rgb(245, 238, 218);
+}
+
+h1{
+    color: #724b10;
+    font-family: 'Trebuchet MS';
+    font-size: xx-large;
+    text-align: center;
+    /* background: #cfb8b8; */
+    /* border: solid 5px #9c8282; */
+    padding: 0.5% 
+}
+
+h2{
+    color: #a46d4e;
+    font-family: 'Trebuchet MS';
+    font-size: x-large;
+    /* background: #f0e0ed; */
+    /* border: solid 3px #a88ea4; */
+}
+
+h3{
+    color: #7b523b;
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    /* background: #f0e0ed; */
+    /* border: solid 3px #a88ea4; */
+}
+
+p{
+    line-height: 1.3
+}
+
+img{
+    border: solid 5px #926621;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li{
+    display: inline;
+    margin: 50px;
+}
